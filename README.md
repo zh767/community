@@ -46,5 +46,5 @@ mvn flyway:migrate
 mvn -Dmybatis.generator.overwrite=true mybatis-generator:generate
 ```
 
-###首页浏览
+### 首页浏览
 ![img](https://zh767.oss-cn-beijing.aliyuncs.com/20200916/1600186170634524image-20200916000833897.png)
